@@ -1,0 +1,14 @@
+{
+  "@@locale": "te",
+  "appTitle": "డిజిటల్ లిటరసీ యాప్",
+  "login": "లాగిన్",
+  "email": "ఈమెయిల్",
+  "password": "పాస్‌వర్డ్",
+  "continueWithGoogle": "గూగుల్ తో కొనసాగించండి",
+  "languageSelection": "భాషను ఎంచుకోండి",
+  "english": "English",
+  "telugu": "తెలుగు (Telugu)",
+  "homeTitle": "ట్యుటోరియల్ వీడియోలు",
+  "settings": "సెట్టింగ్స్",
+  "thankYou": "ధన్యవాదాలు, మళ్ళీ కలుద్దాం!"
+}

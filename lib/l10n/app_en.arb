@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+  "appTitle": "Digital Literacy App",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "continueWithGoogle": "Continue with Google",
+  "languageSelection": "Select Language",
+  "english": "English",
+  "telugu": "తెలుగు (Telugu)",
+  "homeTitle": "Tutorial Videos",
+  "settings": "Settings",
+  "thankYou": "Thank you, visit again!"
+}
